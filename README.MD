@@ -50,4 +50,6 @@ The C code is split into multiple files:
   rb_utils.rb
 
   Shared helper functions (e.g., base64 encoding, string manipulation, random insertion).
-  Just like the C version, you run r_main.rb, select a language, paste code, and get the obfuscated output.
+  Just like the C version, you run r_main.rb, select a language, paste code, and get the obfuscated output. 
+
+# SOME FILES ARE OBFUSCATED FOR MY OWN SAFETY
